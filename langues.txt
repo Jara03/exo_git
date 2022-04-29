@@ -1,5 +1,9 @@
 langues à Nancy
 bibliothèque américaines 
+<<<<<<< HEAD
 café des langues
 test
 test2
+=======
+café des langues
+>>>>>>> parent of ef7638e (test langues)
